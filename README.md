@@ -31,4 +31,6 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 [linkedin]: https://www.linkedin.com/in/clementberard/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twisterrr&layout=compact&langs_count=15&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=Twisterrr)
