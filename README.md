@@ -23,16 +23,14 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
 </br>
 
 ### Stats:
-[![Clement's github stats](https://github-readme-stats.vercel.app/api?username=Twisterrr&show_icons=true&theme=dark)](https://github.com/Twisterrr/github-readme-stats)
+![Clement's GitHub stats](https://github-readme-stats.vercel.app/api?username=twisterrr&show_icons=true&theme=radical&hide=contribs,issues&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twisterrr&layout=compact&theme=radical)](https://github.com/namhkoh/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Twisterrr)](https://github.com/Twisterrr/github-profile-trophy)
 
 [linkedin]: https://www.linkedin.com/in/clementberard/
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Twisterrr&layout=compact&langs_count=15&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Twisterrr)
