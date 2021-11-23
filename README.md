@@ -29,8 +29,6 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 ![Clement's GitHub stats](https://github-readme-stats.vercel.app/api?username=twisterrr&show_icons=true&theme=radical&hide=contribs,issues&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twisterrr&layout=compact&theme=radical)](https://github.com/namhkoh/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Twisterrr)](https://github.com/Twisterrr/github-profile-trophy)
-
 [linkedin]: https://www.linkedin.com/in/clementberard/
 
 ![](https://komarev.com/ghpvc/?username=Twisterrr)
