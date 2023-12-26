@@ -1,6 +1,6 @@
 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m currently learning at  {EPITECH} Nice
+- 🌱 I’m currently learning at  {EPITECH}
 - 🔭 I’m currently working on improving my skills on DevOps
 - 💹 I'm currently studying to become DevSecOps
 
